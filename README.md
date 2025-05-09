@@ -11,7 +11,7 @@ I tried to make this VR adaptation for keyboard and mouse as pleasant and conven
 # Does the mod change any aspects of the game?
 No, the game works exactly the same as if you were playing in a VR headset, although it will be difficult having the same amount of fun due to the reduced dynamism of the game.
 
-#Controls
+# Controls
 All the buttons associated with managing dialogues / secret functions remained the same.
 (press B to open pause menu)
 
