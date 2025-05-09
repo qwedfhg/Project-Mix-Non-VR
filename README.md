@@ -30,3 +30,13 @@ You can sit down with *Tab* in any unclear situation, even in areas where you ca
 
 If you find it difficult to navigate what your throwing force is or in hand rotation mode, you can press *Insert* to enable partial debugging in the upper right corner, it will say whether hand rotation is enabled and what your throwing force is.
 The bed trigger has been reassigned to the *F* key.
+
+# Useful links to follow Project Mix
+discord:
+https://discord.gg/projectmix
+steam:
+https://store.steampowered.com/app/2439770/PROJECT_MIX/
+kickstarter:
+https://www.kickstarter.com/projects/plectrumsoft/project-mix-upcoming-vr-indie-title-inspired-by-90s-anime
+ex-twitter:
+https://x.com/plectrumxr
